@@ -1,0 +1,2 @@
+/usr/bin/ar cr libcrawler.a  CMakeFiles/crawler.dir/dirCrawler.c.o
+/usr/bin/ranlib libcrawler.a

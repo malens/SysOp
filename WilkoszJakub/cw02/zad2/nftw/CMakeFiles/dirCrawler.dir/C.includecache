@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/malens/Desktop/sysop2/WilkoszJakub/cw02/zad2/nftw/crawl.c
+dirCrawler.h
+/home/malens/Desktop/sysop2/WilkoszJakub/cw02/zad2/nftw/dirCrawler.h
+
+/home/malens/Desktop/sysop2/WilkoszJakub/cw02/zad2/nftw/dirCrawler.h
+

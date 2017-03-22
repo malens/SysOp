@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/malens/Desktop/sysop2/WilkoszJakub/cw02/zad1/rw.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+sys/times.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+linux/random.h
+-
+unistd.h
+-
+rw.h
+/home/malens/Desktop/sysop2/WilkoszJakub/cw02/zad1/rw.h
+
+/home/malens/Desktop/sysop2/WilkoszJakub/cw02/zad1/rw.h
+

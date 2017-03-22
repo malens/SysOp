@@ -1,0 +1,1 @@
+/usr/bin/cc  -g -std=c99    CMakeFiles/dirCrawler.dir/crawl.c.o  -o dirCrawler -rdynamic 

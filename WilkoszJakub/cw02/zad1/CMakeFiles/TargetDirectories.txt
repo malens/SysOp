@@ -1,0 +1,2 @@
+/home/malens/Desktop/sysop2/WilkoszJakub/cw02/zad1/CMakeFiles/run.dir
+/home/malens/Desktop/sysop2/WilkoszJakub/cw02/zad1/CMakeFiles/sysop_2.dir

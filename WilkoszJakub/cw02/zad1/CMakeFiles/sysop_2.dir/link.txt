@@ -1,0 +1,1 @@
+/usr/bin/cc  -g -std=c99    CMakeFiles/sysop_2.dir/rw.c.o  -o sysop_2 -rdynamic 
